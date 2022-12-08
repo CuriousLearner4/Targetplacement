@@ -1,0 +1,6 @@
+
+
+# ignore all outs
+*.outs
+# ignore all xopp
+*.xopp
