@@ -15,5 +15,5 @@ find sum of digits
 find max cuts in a rope of values in given subset  
 find subsets of given string
 # Hashing
-Direct address table 
+Direct address table   
 chaining using dynamic array
